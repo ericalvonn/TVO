@@ -1,0 +1,54 @@
+{
+  "heading": "Key Initiatives",
+  "intro": "ACTS initiatives put science, education, and community action to work in Eastside Houston neighborhoods.",
+  "items": [
+    {
+      "id": "air-quality",
+      "title": "Air Quality + Data",
+      "body": "ACTS maintains community air-monitoring networks in Pleasantville, Clinton Park, and Fidelity while engaging research experts to advance data literacy, address health disparities, and strengthen resilience.",
+      "link": { "label": "Visit the Air Quality + Data Center", "href": "/air-quality" },
+      "image": null,
+      "imageHint": "Community air monitor"
+    },
+    {
+      "id": "family-resilience",
+      "title": "Family Resilience",
+      "body": "Health screenings, food-security resources, and disaster preparedness support that help families stay healthy and ready.",
+      "image": null,
+      "imageHint": "Health screening / preparedness event"
+    },
+    {
+      "id": "curriculum-garden",
+      "title": "Curriculum Garden",
+      "body": "A 1.3-acre pollinator garden at Holland Middle School that serves as a pillar of the school curriculum, advancing science, health, and food literacy.",
+      "stat": { "value": "1.3", "label": "ACRES" },
+      "image": null,
+      "imageHint": "Holland Middle School pollinator garden"
+    },
+    {
+      "id": "cooler-play-spaces",
+      "title": "Cooler Play Spaces",
+      "body": "A shade structure addressing the urban heat-island effect at a community playground.",
+      "panels": [
+        { "label": "BEFORE", "body": null, "image": null, "imageHint": "Playground before shade structure" },
+        { "label": "INTERVENTION", "body": "Installation of a shade structure at a community playground.", "image": null, "imageHint": "Shade structure installation" },
+        { "label": "IMPACT", "body": null, "image": null, "imageHint": "Children playing under shade" }
+      ]
+    },
+    {
+      "id": "resilient-landscapes",
+      "title": "Resilient Landscapes",
+      "body": "Community beautification and strategic landscaping that reduce stormwater runoff and strengthen community resilience.",
+      "image": null,
+      "imageHint": "Landscaping project"
+    },
+    {
+      "id": "youth-steam",
+      "title": "Youth STEAM + Robotics",
+      "body": "Real-world learning that empowers the next generation of problem-solvers and leaders.",
+      "link": { "label": "Explore youth programs", "href": "/programs/youth" },
+      "image": null,
+      "imageHint": "Youth robotics"
+    }
+  ]
+}

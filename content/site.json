@@ -1,0 +1,33 @@
+{
+  "name": "Achieving Community Tasks Successfully",
+  "shortName": "ACTS",
+  "tagline": "COMMUNITY-LED. DATA-INFORMED. BUILT FOR RESILIENCE.",
+  "location": "Houston, Texas",
+  "communities": ["Pleasantville", "Clinton Park", "Port Houston"],
+  "contact": {
+    "phone": "(713) 305-9304",
+    "phoneHref": "tel:+17133059304",
+    "email": "acts1cbonp@gmail.com",
+    "website": "acts-organization.org",
+    "websiteHref": "https://acts-organization.org",
+    "address": "11811 East Fwy #240, Houston, TX 77074"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Programs", "href": "/programs" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Air Quality + Data", "href": "/air-quality" },
+    { "label": "Community", "href": "/community" },
+    { "label": "Youth", "href": "/programs/youth" },
+    { "label": "Events", "href": "/events" },
+    { "label": "News", "href": "/news" },
+    { "label": "For Funders", "href": "/funders" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "donate": {
+    "label": "DONATE / SUPPORT ACTS",
+    "href": "/#donate"
+  },
+  "social": []
+}

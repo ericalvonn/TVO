@@ -1,0 +1,82 @@
+{
+  "overview": {
+    "heading": "Organization Overview",
+    "mission": "ACTS provides information, resources, and training to empower communities in reaching their sustainability goals and objectives, advancing environmental justice, public health, and disaster resilience through education, training, and community engagement.",
+    "focusAreas": [
+      "Air Quality + Data",
+      "Family Resilience",
+      "Community Garden + Food Resources",
+      "Youth Development + STEAM",
+      "Resilient Landscapes",
+      "Community Leadership"
+    ]
+  },
+  "capabilityStatementUrl": null,
+  "programs": [
+    { "title": "Air Quality + Data", "href": "/air-quality" },
+    { "title": "Family Resilience", "href": "/projects#family-resilience" },
+    { "title": "Community Garden", "href": "/programs/community" },
+    { "title": "Food Resources", "href": "/programs/community#food-resources" },
+    { "title": "Curriculum Garden", "href": "/projects#curriculum-garden" },
+    { "title": "Cooler Play Spaces", "href": "/projects#cooler-play-spaces" },
+    { "title": "Resilient Landscapes", "href": "/projects#resilient-landscapes" },
+    { "title": "4-H", "href": "/programs/youth#four-h" },
+    { "title": "STEAM + Robotics", "href": "/programs/youth#steam" },
+    { "title": "Neighborhood Environmental Ambassadors", "href": "/programs/ambassadors" }
+  ],
+  "impact": [
+    { "label": "Reach", "value": null },
+    { "label": "Participants", "value": null },
+    { "label": "Youth Engagement", "value": null },
+    { "label": "Community Engagement", "value": null },
+    { "label": "Monitoring Data", "value": null },
+    { "label": "Outcomes", "value": null },
+    { "label": "Partnerships", "value": null },
+    { "label": "Geographic Reach", "value": null }
+  ],
+  "need": {
+    "heading": "Community Need",
+    "paragraphs": [
+      "The near-port Eastside Houston communities ACTS serves face overlapping challenges: environmental hazards, health disparities, disaster vulnerability, and food insecurity.",
+      "Information gaps make those challenges harder to address. When environmental data is hard to find or hard to read, residents are left without the data literacy they need to protect their health and advocate for change.",
+      "Investing in these neighborhoods means investing in community resilience and in youth opportunity, so the next generation has the skills and confidence to lead."
+    ],
+    "themes": [
+      "Environmental hazards",
+      "Health disparities",
+      "Disaster vulnerability",
+      "Food insecurity",
+      "Information gaps",
+      "Data literacy",
+      "Community resilience",
+      "Youth opportunity"
+    ]
+  },
+  "opportunities": [
+    { "title": "Program Support", "description": "Sustain and grow ACTS programs across education, training, and community engagement." },
+    { "title": "Youth Programs", "description": "Support 4-H, STEAM, and robotics learning for Eastside Houston youth." },
+    { "title": "Environmental Data", "description": "Strengthen community air monitoring, data literacy, and accessible data summaries." },
+    { "title": "Community Garden", "description": "Support gardening classes, food literacy, and hands-on environmental education." },
+    { "title": "Family Resilience", "description": "Support health screenings, food-security resources, and disaster preparedness." },
+    { "title": "Community Leadership", "description": "Invest in Neighborhood Environmental Ambassadors and resident advocacy." },
+    { "title": "General Operating Support", "description": "Flexible funding that lets ACTS respond to community needs as they arise." }
+  ],
+  "partnerships": [
+    "Corporate partnerships",
+    "Foundation partnerships",
+    "Government partnerships",
+    "Research partnerships",
+    "Community partnerships",
+    "Program sponsorship",
+    "In-kind support"
+  ],
+  "documents": [
+    { "title": "Capability Statement", "url": null },
+    { "title": "Annual Reports", "url": null },
+    { "title": "Program Reports", "url": null },
+    { "title": "Impact Reports", "url": null },
+    { "title": "Organizational Overview", "url": null },
+    { "title": "Funding Priorities", "url": null },
+    { "title": "Partnership Information", "url": null }
+  ]
+}

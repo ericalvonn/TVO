@@ -1,0 +1,40 @@
+{
+  "whoWeAre": {
+    "heading": "Who We Are",
+    "body": "Achieving Community Tasks Successfully (ACTS) is a nonprofit organization that provides information, resources, and training to empower communities in reaching their sustainability goals and objectives. ACTS focuses its efforts on the near-port Eastside Houston communities of Pleasantville, Clinton Park, and Port Houston."
+  },
+  "whatWeDo": {
+    "heading": "What We Do",
+    "body": "ACTS is a community-based organization dedicated to advancing environmental justice, public health, and disaster resilience through education, training, and community engagement. ACTS works at the intersection of science and community by translating complex issues into practical, actionable solutions that empower residents and organizations.",
+    "pillars": [
+      { "icon": "book", "label": "Education", "description": "Translating complex environmental and health issues into clear, practical knowledge." },
+      { "icon": "users", "label": "Engagement", "description": "Bringing residents and organizations together around shared community goals." },
+      { "icon": "bolt", "label": "Action", "description": "Turning knowledge into actionable solutions residents can put to work." }
+    ]
+  },
+  "whyWeExist": {
+    "heading": "CLOSING THE GAP BETWEEN KNOWLEDGE AND ACTION.",
+    "body": "ACTS exists to close the gap between knowledge and action. Too often, communities most affected by environmental hazards, health disparities, and disasters lack access to the tools, resources, and support needed to respond effectively. We do this work to ensure that all communities are equipped, informed, and empowered to protect themselves and thrive.",
+    "image": null,
+    "imageHint": "Residents working together in the community"
+  },
+  "differentiators": {
+    "heading": "Why ACTS",
+    "items": [
+      { "icon": "users", "label": "Community", "description": "Community-first, grounded in trust and lived experience." },
+      { "icon": "chart", "label": "Data", "description": "A pioneer in community-led air monitoring in Texas." },
+      { "icon": "flag", "label": "Leadership", "description": "Turns education into resident leadership and advocacy." },
+      { "icon": "globe", "label": "Reach", "description": "Demonstrated ability to engage diverse, historically underserved communities." }
+    ]
+  },
+  "competencies": {
+    "heading": "Core Competencies",
+    "items": [
+      { "icon": "users", "label": "Community Engagement & Outreach", "description": "" },
+      { "icon": "tools", "label": "Capacity Building & Training", "description": "" },
+      { "icon": "shield", "label": "Disaster Preparedness & Resilience", "description": "" },
+      { "icon": "leaf", "label": "Environmental & Public Health Education", "description": "" },
+      { "icon": "gear", "label": "Youth Development & STEAM Programming", "description": "" }
+    ]
+  }
+}

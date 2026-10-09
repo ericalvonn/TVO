@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+/* Design tokens (spec §1). Font families are wired to next/font variables in app/layout.tsx. */
+:root {
+  /* Color */
+  --navy-primary: #0B1F4D;
+  --navy-secondary: #132B5E;
+  --blue-action: #0056E9;   /* FINAL logo blue, RGB 0, 86, 233 */
+  --orange-acts: #EE5300;   /* FINAL logo orange, RGB 238, 83, 0 */
+  --warm-light: #F7F8FA;
+  --warm-gray: #EAECF0;
+
+  /* Type */
+  --font-display: var(--font-oswald), 'Oswald', sans-serif;      /* headings — bold condensed */
+  --font-body: var(--font-libre-franklin), 'Libre Franklin', sans-serif; /* body copy */
+  --font-mono: var(--font-space-mono), 'Space Mono', monospace;  /* stats, data, dates, labels */
+}
+
+@theme inline {
+  --color-navy-primary: var(--navy-primary);
+  --color-navy-secondary: var(--navy-secondary);
+  --color-blue-action: var(--blue-action);
+  --color-orange-acts: var(--orange-acts);
+  --color-warm-light: var(--warm-light);
+  --color-warm-gray: var(--warm-gray);
+
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+  --font-mono: var(--font-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background: #fff;
+  color: var(--navy-primary);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: 0.01em;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 3px solid var(--blue-action);
+  outline-offset: 2px;
+}
+
+/* Subtle "data grid" texture used on hero and data-styled sections. */
+.data-grid {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.06) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+.data-grid-light {
+  background-image:
+    linear-gradient(to right, rgb(11 31 77 / 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(11 31 77 / 0.06) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}

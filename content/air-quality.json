@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "eyebrow": "AIR QUALITY + DATA CENTER",
+    "headline": "SEE WHAT THE AIR IS TELLING US.",
+    "body": "Community air monitoring puts environmental data in the hands of the people who breathe the air. ACTS uses it to build data literacy and give residents direct access to information about their neighborhoods."
+  },
+  "dashboard": {
+    "pm25": null,
+    "no2": null,
+    "stations": null,
+    "community": null,
+    "lastUpdated": null
+  },
+  "mapEmbedSrc": null,
+  "chartEmbedSrc": null,
+  "stations": [],
+  "explanation": "Air monitors measure tiny particles and gases in the air around us. ACTS turns those readings into plain-language summaries so residents can understand what the numbers mean for their health and their neighborhood, and what they can do about it.",
+  "communitySummary": null,
+  "resources": [
+    { "title": "Downloadable monitoring data", "url": null },
+    { "title": "Community data summaries", "url": null },
+    { "title": "How to read the data", "url": null }
+  ],
+  "explainer": {
+    "heading": "DATA SHOULD BE UNDERSTANDABLE.",
+    "intro": "Environmental data only matters if people can use it. Here is what ACTS measures, why it matters, and what communities can do.",
+    "blocks": [
+      {
+        "id": "measure",
+        "title": "What We Measure",
+        "body": "ACTS community monitors track air pollutants including fine particulate matter (PM2.5) and nitrogen dioxide (NO₂) in the neighborhoods we serve.",
+        "items": ["PM2.5 — fine particles", "NO₂ — nitrogen dioxide"]
+      },
+      {
+        "id": "matters",
+        "title": "Why It Matters",
+        "body": "Air quality is connected to public health. Local data builds community awareness and helps residents and partners plan for a more resilient neighborhood.",
+        "items": ["Public health", "Community awareness", "Resilience"]
+      },
+      {
+        "id": "act",
+        "title": "What Communities Can Do",
+        "body": null,
+        "items": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is PM2.5?",
+        "a": "PM2.5 is fine particulate matter: airborne particles 2.5 micrometers in diameter or smaller. They are small enough to be inhaled deep into the lungs."
+      },
+      {
+        "q": "What is NO₂?",
+        "a": "NO₂ (nitrogen dioxide) is a gas that forms mainly when fuel is burned, such as by vehicles, engines, and industrial sources."
+      },
+      {
+        "q": "Why monitor at the community level?",
+        "a": "Monitors placed in neighborhoods show conditions where residents actually live, learn, and play, which helps communities understand their own air."
+      }
+    ]
+  }
+}

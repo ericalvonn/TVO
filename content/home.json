@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "eyebrow": "COMMUNITY-LED. DATA-INFORMED.",
+    "headline": "BUILT FOR RESILIENCE.",
+    "subhead": "Citizen Science | Public Health | Education | Public Action",
+    "body": "Achieving Community Tasks Successfully (ACTS) equips Eastside Houston communities with trusted information, practical skills, and resources that turn knowledge into action.",
+    "primaryCta": { "label": "GET INVOLVED", "href": "/contact" },
+    "secondaryCta": { "label": "EXPLORE OUR WORK", "href": "/programs" },
+    "image": null,
+    "imageHint": "Eastside Houston residents / community photo"
+  },
+  "processFlow": {
+    "heading": "Turning Knowledge Into Action",
+    "steps": ["SCIENCE", "DATA", "EDUCATION", "COMMUNITY", "ACTION"]
+  },
+  "areas": {
+    "heading": "Our Areas of Work",
+    "items": [
+      {
+        "title": "Air Quality + Data",
+        "description": "Community air-monitoring networks paired with data literacy, so residents can understand and act on what the air is telling us.",
+        "href": "/air-quality",
+        "image": null,
+        "imageHint": "Air monitor installed in the neighborhood"
+      },
+      {
+        "title": "Family Resilience",
+        "description": "Health screenings, food-security resources, and disaster preparedness support for Eastside Houston families.",
+        "href": "/projects#family-resilience",
+        "image": null,
+        "imageHint": "Families at a resilience event"
+      },
+      {
+        "title": "Community Garden + Food Resources",
+        "description": "Gardening classes, hands-on learning, food literacy, and environmental education, plus a directory of food and community resources.",
+        "href": "/programs/community",
+        "image": null,
+        "imageHint": "Residents gardening together"
+      },
+      {
+        "title": "Youth Development + STEAM",
+        "description": "4-H, STEAM, and robotics programs that build creative problem-solvers, innovators, critical thinkers, and future leaders.",
+        "href": "/programs/youth",
+        "image": null,
+        "imageHint": "Students working on a robotics project"
+      },
+      {
+        "title": "Resilient Landscapes",
+        "description": "Community beautification and strategic landscaping that reduce stormwater runoff and strengthen community resilience.",
+        "href": "/projects#resilient-landscapes",
+        "image": null,
+        "imageHint": "Neighborhood landscaping project"
+      },
+      {
+        "title": "Community Leadership",
+        "description": "Neighborhood Environmental Ambassadors gain the knowledge, communication tools, and civic literacy to lead and advocate.",
+        "href": "/programs/ambassadors",
+        "image": null,
+        "imageHint": "Ambassadors leading a community meeting"
+      }
+    ]
+  },
+  "impact": {
+    "heading": "Community Impact",
+    "stats": [
+      { "label": "Communities Reached", "value": null },
+      { "label": "Programs", "value": null },
+      { "label": "Youth Engaged", "value": null },
+      { "label": "Monitoring Stations", "value": null },
+      { "label": "Acres", "value": null },
+      { "label": "Community Partners", "value": null }
+    ]
+  },
+  "maps": {
+    "heading": "Explore Our Community",
+    "items": [
+      {
+        "number": "MAP 01",
+        "title": "Air Quality + Monitoring Map",
+        "description": "Where community air monitoring takes place and what the readings show.",
+        "embedSrc": null,
+        "href": null
+      },
+      {
+        "number": "MAP 02",
+        "title": "Community / Environmental Map",
+        "description": "Environmental features and conditions across the Eastside Houston communities ACTS serves.",
+        "embedSrc": null,
+        "href": null
+      },
+      {
+        "number": "MAP 03",
+        "title": "Community Resources Map",
+        "description": "Food, health, and community resources available to residents.",
+        "embedSrc": null,
+        "href": null
+      }
+    ]
+  },
+  "donation": {
+    "headline": "HELP BUILD A MORE RESILIENT COMMUNITY.",
+    "body": "Your support helps ACTS deliver the education, training, and resources that turn knowledge into action for Eastside Houston residents."
+  }
+}
