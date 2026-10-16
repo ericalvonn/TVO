@@ -35,7 +35,7 @@ Use only sections that add non-obvious value.
 # Agent Instructions
 
 ## Package Manager
-- Use **pnpm**: `pnpm install`
+- Preferred: **pnpm** (if the repository standard). Use the project's lockfile to decide: `pnpm install`
 
 ## Commands
 | Task | Command |
@@ -51,14 +51,21 @@ Use only sections that add non-obvious value.
 | Security policy | `SECURITY.md` |
 
 ## Key Conventions
+
+## Quick checklist to verify before writing
+- Confirm package manager and lockfile
+- Confirm test/lint/typecheck commands work locally for the target files
+- Verify referenced paths and commands exist in the repo
+- Keep AGENTS.md under 60 lines when possible; do not exceed 100
+
 - Generated files: update with `pnpm generate`; do not edit by hand.
 
 ## Commit Attribution
-AI commits MUST include:
+
 ```
-Co-Authored-By: (the agent's name and attribution byline)
 ```
-````
+```
+```
 
 ## Writing Rules
 
