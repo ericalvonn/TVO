@@ -3,16 +3,23 @@ import Hero from "@/components/Hero";
 import Button from "@/components/Button";
 import ImageSlot from "@/components/ImageSlot";
 import Placeholder from "@/components/Placeholder";
+import VideoEmbed from "@/components/VideoEmbed";
 import Section, { SectionHeading } from "@/components/Section";
 import { programs } from "@/lib/content";
 
 export const metadata: Metadata = { title: "Community Garden + Food Resources" };
 
 export default function CommunityProgramPage() {
-  const { garden, classes, resources } = programs.community;
+  const { video, garden, classes, resources } = programs.community;
   return (
     <>
       <Hero compact eyebrow="Programs" headline="Community Garden + Food Resources" body={garden.body} />
+
+      <Section tone="light" id="video">
+        <div className="mx-auto max-w-5xl">
+          <VideoEmbed youtubeId={video.youtubeId} title={video.title} />
+        </div>
+      </Section>
 
       <Section tone="white" id="garden">
         <div className="grid items-center gap-12 lg:grid-cols-2">

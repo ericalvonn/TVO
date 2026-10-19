@@ -27,10 +27,19 @@
     ]
   },
   "community": {
+    "video": {
+      "youtubeId": "f4me8GlFMpQ",
+      "title": "ACTS community video"
+    },
     "garden": {
       "heading": "Community Garden",
       "body": "The ACTS community garden is a place for gardening classes, hands-on learning, food literacy, and environmental education.",
-      "focus": ["Gardening classes", "Hands-on learning", "Food literacy", "Environmental education"],
+      "focus": [
+        "Gardening classes",
+        "Hands-on learning",
+        "Food literacy",
+        "Environmental education"
+      ],
       "image": null,
       "imageHint": "Residents in the community garden"
     },
@@ -43,10 +52,22 @@
       "heading": "Food Resources",
       "intro": "A directory of food and community resources for residents. Entries will be added as ACTS verifies providers.",
       "categories": [
-        { "title": "Food Resources", "entries": [] },
-        { "title": "Community Resources", "entries": [] },
-        { "title": "Food-Security Information", "entries": [] },
-        { "title": "Gardening Resources", "entries": [] }
+        {
+          "title": "Food Resources",
+          "entries": []
+        },
+        {
+          "title": "Community Resources",
+          "entries": []
+        },
+        {
+          "title": "Food-Security Information",
+          "entries": []
+        },
+        {
+          "title": "Gardening Resources",
+          "entries": []
+        }
       ]
     }
   },
@@ -64,11 +85,25 @@
     "steam": {
       "heading": "STEAM + Robotics",
       "body": "ACTS STEAM and robotics programming offers real-world learning that builds creative problem-solvers, innovators, critical thinkers, and future leaders. Students explore science, technology, engineering, art, and math by designing, building, and solving problems together.",
-      "outcomes": ["Creative problem-solvers", "Innovators", "Critical thinkers", "Future leaders"],
+      "outcomes": [
+        "Creative problem-solvers",
+        "Innovators",
+        "Critical thinkers",
+        "Future leaders"
+      ],
       "images": [
-        { "src": null, "hint": "Robotics build session" },
-        { "src": null, "hint": "Engineering challenge" },
-        { "src": null, "hint": "Students learning together" }
+        {
+          "src": null,
+          "hint": "Robotics build session"
+        },
+        {
+          "src": null,
+          "hint": "Engineering challenge"
+        },
+        {
+          "src": null,
+          "hint": "Students learning together"
+        }
       ]
     }
   },
@@ -77,12 +112,34 @@
     "subhead": "BUILDING RESIDENT LEADERSHIP FOR HEALTHIER, MORE RESILIENT NEIGHBORHOODS.",
     "body": "The Neighborhood Environmental Ambassadors program equips residents with the knowledge, skills, communication tools, civic literacy, and confidence to understand environmental issues and participate in community action.",
     "activities": [
-      { "icon": "leaf", "label": "Gardening Classes", "description": "Practical, hands-on opportunities to grow food, practice environmental stewardship, and build food literacy." },
-      { "icon": "chart", "label": "Community Data Summaries", "description": "ACTS translates environmental and air-monitoring data into accessible summaries residents can use and share." },
-      { "icon": "flag", "label": "Ambassador Programs", "description": "Training in leadership, communication, civic literacy, and advocacy." },
-      { "icon": "book", "label": "Community Education", "description": "Learning opportunities that help neighbors understand environmental issues and how to respond." }
+      {
+        "icon": "leaf",
+        "label": "Gardening Classes",
+        "description": "Practical, hands-on opportunities to grow food, practice environmental stewardship, and build food literacy."
+      },
+      {
+        "icon": "chart",
+        "label": "Community Data Summaries",
+        "description": "ACTS translates environmental and air-monitoring data into accessible summaries residents can use and share."
+      },
+      {
+        "icon": "flag",
+        "label": "Ambassador Programs",
+        "description": "Training in leadership, communication, civic literacy, and advocacy."
+      },
+      {
+        "icon": "book",
+        "label": "Community Education",
+        "description": "Learning opportunities that help neighbors understand environmental issues and how to respond."
+      }
     ],
-    "flow": ["LEARN", "UNDERSTAND", "SHARE", "LEAD", "ADVOCATE"],
+    "flow": [
+      "LEARN",
+      "UNDERSTAND",
+      "SHARE",
+      "LEAD",
+      "ADVOCATE"
+    ],
     "closing": "RESIDENTS SHOULD NOT JUST BE INFORMED. THEY SHOULD BE EQUIPPED TO ADVOCATE."
   }
 }

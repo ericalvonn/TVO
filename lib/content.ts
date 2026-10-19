@@ -69,6 +69,7 @@ export const about = aboutJson as Omit<typeof aboutJson, "whyWeExist"> & {
 type ProgramsShape = {
   hub: { heading: string; intro: string; items: CardItem[] };
   community: {
+    video: { youtubeId: string | null; title: string };
     garden: { heading: string; body: string; focus: string[]; image: string | null; imageHint: string };
     classes: { heading: string; body: string; registrationUrl: string | null };
     resources: { heading: string; intro: string; categories: { title: string; entries: ResourceEntry[] }[] };
